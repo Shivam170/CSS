@@ -1,0 +1,109 @@
+/* Background */
+
+
+
+.container{
+    border: solid 2px #000;
+    display: flex;
+}
+.col-1{
+    height: 250px;
+    border: solid 2px pink;
+}
+.col-2{
+    height: 250px;
+    border: solid 2px red;
+}
+
+* {
+    color: white;
+  /* background-image: url(pattern.png); */
+  /* background-image: url(back.jpg); */
+  /* background-color: darkviolet; */
+  /* background-repeat: no-repeat;
+  background-size: 30%; */
+  /* background-position: 200px 100px; */
+  /* background-position: right top;
+  background-attachment: scroll; */
+}
+
+/* Border */
+/* style width color */
+/* h1 {
+  border: dotted 2px #000;
+  border-radius: 50px;
+} */
+
+/* top right bottom left
+top right and left bottom
+top and bottom right and left */
+
+/* .doge {
+  margin: auto;
+  width: 50%;
+  border: 2px solid #000;
+}
+
+.doge img {
+  width: 100%;
+}
+
+.dogo {
+  width: 50%;
+  border: 2px solid #000;
+  display: block;
+  margin: auto;
+} */
+
+/* A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can). */
+
+/* An inline element does not start on a new line and only takes up as much width as necessary. */
+
+/* Examples of inline elements:
+
+<span>
+<a>
+<img> */
+
+/* Examples of block-level elements:
+
+<div>
+<h1> - <h6>
+<p>
+<form>
+<header>
+<footer>
+<section> */
+
+/* .para {
+  border: solid 2px #000;
+  /* font-family: "Courier New", Courier, monospace; */
+
+  /* text-align: left; */
+  /* text-decoration: underline; */
+  /* text-decoration: line-through; */
+  /* text-transform: uppercase; */
+  /* letter-spacing: 2px; */
+  /* line-height: 1.5; */
+  /* word-spacing: 2px; */
+} */
+
+/* h1 {
+  color: crimson;
+  text-align: center;
+} */
+
+/* Margin
+Padding
+Box-Sizing
+Outline
+Text
+Font
+Table
+List
+Display
+inline-block
+Position
+Z-index
+overflow
+pseudo classes */
